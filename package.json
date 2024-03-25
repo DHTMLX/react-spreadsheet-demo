@@ -1,5 +1,5 @@
 {
-  "name": "dhtmlx_spreadsheet_react",
+  "name": "react-spreadsheet-demo",
   "version": "1.0.0",
   "description": "React with dhtmlx spreadsheet example",
   "keywords": [
@@ -9,7 +9,7 @@
   ],
   "main": "src/index.js",
   "dependencies": {
-    "@dhx/trial-spreadsheet": "^5.1.0",
+    "@dhx/trial-spreadsheet": "^5.1.5",
     "loader-utils": "3.2.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
