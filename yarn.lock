@@ -1278,10 +1278,10 @@
   resolved "https://registry.yarnpkg.com/@csstools/selector-specificity/-/selector-specificity-2.2.0.tgz#2cbcf822bf3764c9658c4d2e568bd0c0cb748016"
   integrity sha512-+OJ9konv95ClSTOJCmMZqpd5+YGsB2S+x6w3E1oaM8UuR5j8nTNHYSz8c9BEPGDOCMQYIEEGlVPj/VY64iTbGw==
 
-"@dhx/trial-spreadsheet@^5.1.0":
-  version "5.1.1"
-  resolved "https://npm.dhtmlx.com/@dhx%2ftrial-spreadsheet/-/trial-spreadsheet-5.1.1.tgz#8776109b33a965ff9b988be84e10f1617b19abff"
-  integrity sha512-1o6vBU+/zut8tFQVu1Vv30pUtr1kuc89pZjN9HhXCxEeF6CdUmLi2vXT5CxcGzUKxDSkGpjYdTj9Cv58WRzfsw==
+"@dhx/trial-spreadsheet@^5.1.5":
+  version "5.1.5"
+  resolved "https://npm.dhtmlx.com/@dhx%2ftrial-spreadsheet/-/trial-spreadsheet-5.1.5.tgz#290ab7916132ee8eb9fda7e66dcd6bafcf8a21ef"
+  integrity sha512-UFmfA3M3OnxwgziMDzpmgfOCzCimk5e3a5lRcmc+qbYBXwXOOVGLxij0/HfZlSNMuxDwIZzUaTw0PpJed52dVg==
 
 "@eslint-community/eslint-utils@^4.2.0":
   version "4.4.0"
@@ -4373,9 +4373,9 @@ flatted@^3.1.0:
   integrity sha512-5nqDSxl8nn5BSNxyR3n4I6eDmbolI6WT+QqR547RwxQapgjQBmtktdP+HTBb/a/zLsbzERTONyUB5pefh5TtjQ==
 
 follow-redirects@^1.0.0:
-  version "1.15.2"
-  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.15.2.tgz#b460864144ba63f2681096f274c4e57026da2c13"
-  integrity sha512-VQLG33o04KaQ8uYi2tVNbdrWp1QWxNNea+nmIB4EVM28v0hmP17z7aG1+wAkNzVq4KeXTq3221ye5qTJP91JwA==
+  version "1.15.6"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.15.6.tgz#7f815c0cda4249c74ff09e95ef97c23b5fd0399b"
+  integrity sha512-wWN62YITEaOpSK584EZXJafH1AGpO8RVgElfkuXbTOrPX4fIfOyEpW/CsiNd8JdYrAoOvafRTOEnvsO++qCqFA==
 
 for-each@^0.3.3:
   version "0.3.3"
