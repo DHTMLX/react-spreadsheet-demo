@@ -9,7 +9,7 @@
   ],
   "main": "src/index.js",
   "dependencies": {
-    "@dhx/trial-spreadsheet": "^5.1.5",
+    "@dhx/trial-spreadsheet": "^5.1.6",
     "loader-utils": "3.2.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
