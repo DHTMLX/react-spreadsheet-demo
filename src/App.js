@@ -1,12 +1,9 @@
-import "./styles.css";
-
-import DHTMLXSpreadsheet from "./Spreadsheet";
+import Spreadsheet from "./Spreadsheet";
 import { getData } from "./data";
-import { useState } from "react";
 
 function App() {
-  let [data] = useState(getData())
-  return <DHTMLXSpreadsheet data={data} />;
+    let data = getData();
+    return <Spreadsheet data={data} />;
 }
 
 export default App;
